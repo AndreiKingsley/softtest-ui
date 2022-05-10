@@ -1,6 +1,6 @@
 Сборка через gradle.
 
 Запуск тестов
->> ./gradlew test
+> ./gradlew test
 
 Использувется selenium с движком Safari.
